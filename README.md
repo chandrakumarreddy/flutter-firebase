@@ -1,4 +1,4 @@
 # flut_fire
 
 Flutter fire base tutorial
-![login screen](./login.png =250x)
+<img src="./login.png" alt="drawing" height="250" width='150'/>
